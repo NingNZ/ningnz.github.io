@@ -6,5 +6,4 @@ node_modules/
 public/
 .deploy*/
 _multiconfig.yml
-source/
-!source/_posts
+source/_drafts
