@@ -22,9 +22,9 @@ menu:
   - page: about
     directory: about/
     icon: fa-user
-  - page: rss
-    directory: atom.xml
-    icon: fa-rss
+  # - page: rss
+  #   directory: atom.xml
+  #   icon: fa-rss
 
 # RSS & Sitemap plugins
 Plugins:
@@ -95,17 +95,17 @@ reward:
 
 # About page
 about:
-  photo_url: ## Your photo e.g. /themeauthor.jpg
+  photo_url: ../author.png ## Your photo e.g. /themeauthor.jpg
   items:
   - label: email
-    url: ## Your email with mailto: e.g.  mailto:chaoles@foxmail.com
-    title: ## Your email e.g.  chaoles@foxmail.com
+    url: mailto:ning.y.m@qq.com ## Your email with mailto: e.g.  mailto:chaoles@foxmail.com
+    title: ning.y.m@qq.com ## Your email e.g.  chaoles@foxmail.com
   - label: github
-    url: ## Your github'url e.g.  https://github.com/chaooo
-    title: ## Your github'name e.g.  chaooo
-  - label: weibo
-    url: ## Your weibo's url e.g.  http://weibo.com/zhengchaooo
-    title: ## Your weibo's name e.g.  秋过冬漫长
+    url: https://github.com/NingNZ ## Your github'url e.g.  https://github.com/chaooo
+    title: NingNZ ## Your github'name e.g.  chaooo
+  # - label: weibo
+  #   url: ## Your weibo's url e.g.  http://weibo.com/zhengchaooo
+  #   title: ## Your weibo's name e.g.  秋过冬漫长
 
 # Gitalk comment
 gitalk:
