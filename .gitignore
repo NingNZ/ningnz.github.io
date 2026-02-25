@@ -8,4 +8,4 @@ source/
 .deploy*/
 _multiconfig.yml
 themes/
-!source/_drafts
+!source/_posts
