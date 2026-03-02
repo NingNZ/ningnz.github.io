@@ -106,7 +106,7 @@ about:
 gitalk:
   enable: true
   owner: NingNZ ## Your GitHub ID, e.g. username
-  repo: https://github.com/NingNZ/blog_comments.git ## The repository to store your comments, make sure you're the repo's owner, e.g. gitalk.github.io
+  repo: blog_comments ## The repository to store your comments, make sure you're the repo's owner, e.g. gitalk.github.io
   client_id: Ov23liWOh4ia9xXaVKPn ## GitHub client ID, e.g. 75752dafe7907a897619
   client_secret: e379ec8fa17cdb7c12c54dbd068c8149838d3814 ## GitHub client secret, e.g. ec2fb9054972c891289640354993b662f4cccc50
   admin: NingNZ ## Github repo owner and collaborators, only these guys can initialize github issues.
