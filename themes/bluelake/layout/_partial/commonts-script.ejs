@@ -1,6 +1,6 @@
 <% if (!(is_home())){ %>
   <% if (theme.gitalk.enable && theme.gitalk.client_id && theme.gitalk.client_secret){ %>
-    <%- js('https://unpkg.com/gitalk/dist/gitalk.min.js') %>
+    <%- js('https://cdn.bootcdn.net/ajax/libs/gitalk/1.7.2/gitalk.css') %>
     <%- js('//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js') %>
     <script>
       var gitalk = new Gitalk({
