@@ -79,11 +79,6 @@ baidu_analytics:
 google_analytics:
 gauges_analytics:
 
-# MathJax support
-mathjax:
-  enable: false  # true/false.
-  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
-
 # Reward
 reward:
   enable: false  # true/false 是否开启 打赏功能
