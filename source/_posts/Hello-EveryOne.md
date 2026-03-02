@@ -1,13 +1,18 @@
 ---
-title: Hello,EveryOne
-date: 2026-02-25 20:49:06
+title: Hello EveryOne
+date: 2026-03-02 23:41:49
 tags:
 ---
-这是我的测试Blog：
-测试latex公式：
-$$
-    X = Y \rightarrow  Z \cap B
-$$
-测试网页图片
-<img src="https://haowallpaper.com/link/common/file/previewFileImg/18138684358315392">
 
+### 我的第一篇博客
+---
+作为一个CS人，在看到这么多大佬的博客后，为了彰显个性，我也决定向前辈学习，在历经了几天的时间里，终于让我的个人博客上线了！！！
+
+在这里，我必须诚挚感谢<a href="https://hexo.io/"　target="_blank">Hexo框架</a>以及<a href="https://github.com/chaooo/hexo-theme-BlueLake/" target="_blank">BlueLake主题</a>给予的支持，还有Copilot耐心的，无私的帮助！
+
+话说回来，个人博客是不是也算是让我一脚迈入了开源的大门（笑：
+
+我会在这里分享个人想法以及对专业知识的认识和思考（ps:希望我的Blog可以督促我好好学习，天天向上）。如果这些随笔可以帮助到你，那就是我的荣幸；如果有犯错的地方，也请各位大佬可以教教我。大家可以在每篇文章下面的评论区与我交流沟通，希望会有一个和谐的交流环境（在这里先感谢大家了❤️❤️❤️）
+
+### 最后
+希望全世界的开源事业越办越好！祝各位早上好，中午好，下午好，晚上好！🌸🌸🌸每一个人都有幸福的一天🌸🌸🌸
