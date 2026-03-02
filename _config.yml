@@ -102,3 +102,15 @@ theme: bluelake
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+#markdown-it 配置
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+  plugins:
+    - markdown-it-katex
