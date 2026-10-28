@@ -1,6 +1,8 @@
 ---
 title: Hello EveryOne
 date: 2026-03-02 23:41:49
+categories:
+    - 随笔
 tags:
 ---
 
